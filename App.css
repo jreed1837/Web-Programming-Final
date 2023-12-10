@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+button {
+  margin-top: 10px;
+}
